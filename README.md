@@ -28,7 +28,7 @@ Follow this steps to set up your working environment.
 * [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows) (optional)
   
 
-###Installation
+### Installation
 
 1. Install [Python 3](https://www.python.org/downloads/). Open terminal and check if python is installed correctly:
 ```
